@@ -1,0 +1,458 @@
+{"Aerospace":"Aerospace engineer with strong foundations in aerodynamics, propulsion, structures, and flight mechanics. Experienced in aircraft and spacecraft design, analysis, and testing using industry-standard tools such as MATLAB, CATIA, ANSYS, and SolidWorks. Skilled in performance analysis, structural modeling, and system integration with a focus on safety, efficiency, and innovation. Hands-on experience through academic projects, simulations, and laboratory work involving UAVs, propulsion systems, and composite materials. Detail-oriented team player with strong problem-solving abilities and a passion for advancing aerospace technology through research, design optimization, and real-world application.",
+"Agricultural":"Agricultural professional with strong knowledge of crop production, soil science, irrigation, and sustainable farming practices. Experienced in farm management, agribusiness operations, and use of modern agricultural technologies. Skilled in crop planning, pest and disease management, post-harvest handling, and yield optimization. Familiar with precision agriculture tools, data analysis, and farm machinery operation. Hands-on experience through fieldwork, research projects, and training programs. Adaptable team player with problem-solving skills, committed to improving productivity, food security, and environmental sustainability while supporting efficient, profitable, and climate-resilient agricultural systems, focused on innovation, ethical practices, rural development, stakeholder collaboration, and continuous learning in evolving agricultural environments globally.",
+"Automobile":"Automobile professional with solid knowledge of vehicle engineering, manufacturing processes, and automotive systems including engines, transmissions, chassis, and electrical components. Experienced in vehicle diagnostics, maintenance, and performance analysis using modern tools and industry standards. Skilled in CAD modeling, quality control, and safety compliance with a focus on efficiency and reliability. Hands-on experience through academic projects, workshops, and practical training involving IC engines, hybrid systems, and vehicle testing. Detail-oriented team player with strong problem-solving abilities and a passion for innovation, sustainable mobility, and continuous improvement in the evolving automotive industry.",
+"Biomedical":"Biomedical professional with strong foundations in human physiology, biomedical instrumentation, medical imaging, and biomaterials. Experienced in the design, analysis, and application of healthcare technologies to support diagnosis, treatment, and patient monitoring. Skilled in laboratory techniques, data analysis, and use of biomedical software and equipment. Hands-on experience through academic projects, research work, and clinical exposure involving biosignals, medical devices, and healthcare systems. Detail-oriented and ethically driven team player with strong problem-solving skills, committed to improving patient outcomes through innovation, interdisciplinary collaboration, and application of engineering principles in modern healthcare and life sciences.",
+"Biotechnology":"Biotechnology professional with strong knowledge of molecular biology, genetics, microbiology, and biochemical engineering. Experienced in laboratory techniques such as DNA/RNA extraction, PCR, cell culture, and protein analysis. Skilled in experimental design, data analysis, and use of modern biotechnological tools and software. Hands-on experience through academic projects, research internships, and laboratory work involving recombinant DNA technology, fermentation, and bioprocess optimization. Detail-oriented and safety-conscious team player with strong problem-solving abilities and a passion for innovation in healthcare, agriculture, and industrial biotechnology to develop sustainable, ethical, and impactful biological solutions.",
+"Chemical":"Chemical professional with strong expertise in chemical engineering principles, process design, and industrial operations. Experienced in reaction engineering, thermodynamics, mass and heat transfer, and process optimization. Skilled in laboratory analysis, pilot-scale experiments, and use of software such as Aspen Plus, MATLAB, and AutoCAD for process simulation and design. Hands-on experience through academic projects, internships, and research in chemical manufacturing, materials development, and environmental safety. Detail-oriented team player with strong problem-solving skills, committed to developing efficient, sustainable, and safe chemical processes while contributing to innovation, quality improvement, and responsible industrial practices.",
+"Civil":"Civil engineer with expertise in structural design, construction management, and infrastructure development. Skilled in CAD, AutoCAD, STAAD Pro, and project planning. Experienced in site supervision, material testing, and sustainable urban development. Strong problem-solving and teamwork abilities with a focus on safety, efficiency, and innovative civil solutions.",
+"Computer":"Computer professional with skills in programming, software development, and algorithms. Experienced in Python, Java, C++, web development, and database management. Strong problem-solving, debugging, and system design abilities. Hands-on experience in projects involving AI, machine learning, and application development.",
+"Cybersecurity":"Cybersecurity specialist with knowledge of network security, ethical hacking, and threat analysis. Experienced in firewalls, intrusion detection, and vulnerability assessment. Skilled in risk mitigation, cryptography, and security compliance. Committed to protecting digital assets and enhancing organizational resilience against cyber threats.",
+"Data":"Data professional skilled in data analysis, visualization, and statistical modeling. Experienced in Python, R, SQL, and tools like Tableau and Power BI. Strong abilities in predictive analytics, data cleaning, and business intelligence. Focused on deriving actionable insights and supporting data-driven decision-making.",
+"Electrical":"Electrical engineer with expertise in power systems, circuits, and control systems. Experienced in designing, testing, and maintaining electrical equipment. Skilled in MATLAB, PSCAD, and AutoCAD Electrical. Detail-oriented team player focused on efficiency, safety, and innovative electrical solutions.",
+"Electronics":"Electronics engineer skilled in circuit design, embedded systems, and signal processing. Experienced with microcontrollers, PCB design, and testing of electronic devices. Proficient in MATLAB, Multisim, and simulation tools. Strong problem-solving skills with a focus on innovation in consumer and industrial electronics.",
+"Energy":"Energy engineer with expertise in renewable energy, power generation, and energy efficiency. Skilled in solar, wind, and thermal energy systems, energy audits, and sustainability analysis. Experienced in modeling, optimization, and project implementation for sustainable energy solutions.",
+"Environmental":"Environmental engineer focused on pollution control, waste management, and sustainable development. Skilled in environmental impact assessment, water and air quality monitoring, and regulatory compliance. Committed to improving public health and promoting eco-friendly industrial practices.",
+"Geotechnical":"Geotechnical engineer with knowledge of soil mechanics, foundation design, and slope stability analysis. Experienced in site investigation, geotechnical modeling, and risk assessment. Skilled in using PLAXIS and GeoStudio for safe and efficient civil engineering projects.",
+"Industrial":"Industrial engineer skilled in process optimization, workflow design, and production management. Experienced in lean manufacturing, quality control, and operations research. Focused on improving efficiency, reducing costs, and enhancing productivity in industrial settings.",
+"Information":"Information systems professional with expertise in IT infrastructure, database management, and systems integration. Skilled in software deployment, network administration, and cybersecurity principles. Experienced in managing digital resources to optimize organizational performance.",
+"Instrumentation":"Instrumentation engineer with expertise in sensors, process control, and automation systems. Experienced in calibration, instrumentation design, and industrial monitoring solutions. Skilled in LabVIEW, PLC programming, and real-time data acquisition for precise and reliable system performance.",
+"Marine":"Marine engineer with experience in ship design, propulsion systems, and offshore operations. Skilled in fluid mechanics, marine machinery, and naval architecture software. Committed to safe, efficient, and sustainable marine engineering practices.",
+"Materials":"Materials engineer with expertise in material characterization, processing, and selection. Experienced in metals, polymers, composites, and nanomaterials. Skilled in testing methods, failure analysis, and optimizing materials for performance and sustainability.",
+"Mechanical":"Mechanical engineer with expertise in thermodynamics, mechanics, and machine design. Skilled in CAD, SolidWorks, and simulation tools. Experienced in product design, manufacturing, and system optimization. Focused on innovation, efficiency, and reliability.",
+"Mechatronics":"Mechatronics engineer skilled in robotics, automation, and embedded systems. Experienced in sensors, actuators, PLC programming, and control systems. Focused on integrating mechanical, electrical, and software solutions for smart technologies.",
+"Metallurgical":"Metallurgical engineer with expertise in metal extraction, processing, and alloy design. Experienced in heat treatment, welding, and failure analysis. Skilled in optimizing material properties for industrial applications and sustainable manufacturing.",
+"Mining":"Mining engineer with knowledge of mineral exploration, extraction, and mine planning. Experienced in safety management, drilling, and resource optimization. Skilled in geological analysis and sustainable mining practices to maximize efficiency and minimize environmental impact.",
+"Nanotechnology": "Nanotechnology professional with expertise in nanoscale materials, devices, and fabrication techniques. Experienced in nanomaterials synthesis, characterization, and application in medicine, electronics, and energy. Skilled in microscopy, spectroscopy, and nanofabrication tools. Hands-on experience through academic projects, research, and laboratory work. Detail-oriented team player with strong problem-solving skills, focused on innovation and developing practical, safe, and sustainable nanotechnology solutions across industries.",
+  
+  "Nuclear": "Nuclear engineer with knowledge of reactor design, radiation safety, and nuclear physics. Experienced in power generation, fuel cycle analysis, and radiation shielding. Skilled in simulation tools, regulatory compliance, and risk assessment. Hands-on experience through laboratory experiments and internships in nuclear facilities. Committed to safe, efficient, and sustainable applications of nuclear energy and technology.",
+
+  "Petroleum": "Petroleum engineer skilled in exploration, drilling, and production operations. Experienced in reservoir engineering, well logging, and enhanced oil recovery techniques. Proficient in industry software such as Petrel and Eclipse for modeling and optimization. Strong problem-solving abilities with a focus on efficiency, safety, and sustainable hydrocarbon extraction.",
+
+  "Robotics": "Robotics engineer with expertise in autonomous systems, control, and automation. Experienced in robot design, kinematics, sensors, and actuators. Skilled in ROS, MATLAB, and embedded programming. Hands-on experience through projects involving industrial robots, UAVs, and AI-enabled robotic applications. Focused on innovation, efficiency, and intelligent system development.",
+
+  "Software": "Software engineer with expertise in software development, system design, and programming languages including Python, Java, and C++. Experienced in application development, debugging, and version control. Skilled in software architecture, testing, and deployment. Detail-oriented team player focused on creating efficient, scalable, and user-friendly software solutions.",
+
+  "Structural": "Structural engineer with expertise in structural analysis, design, and safety assessment. Experienced in using STAAD Pro, ETABS, and AutoCAD for building, bridge, and infrastructure projects. Skilled in material selection, load calculations, and code compliance. Detail-oriented team player focused on durable, safe, and innovative structural solutions.",
+
+  "Telecommunication": "Telecommunication engineer with knowledge of network protocols, wireless systems, and signal processing. Experienced in designing, installing, and maintaining communication systems. Skilled in RF design, fiber optics, and network optimization. Committed to improving connectivity, reliability, and efficiency of modern telecommunication networks.",
+
+  "Transportation": "Transportation engineer skilled in traffic planning, logistics, and infrastructure design. Experienced in roadways, railways, and urban mobility projects. Skilled in simulation tools, GIS, and transportation modeling. Focused on optimizing safety, efficiency, and sustainability of transportation systems.",
+
+  "Algorithms": "Computer professional with expertise in algorithm design, data structures, and computational problem-solving. Experienced in optimizing algorithms for efficiency, scalability, and real-world applications. Skilled in Python, C++, and Java with hands-on experience in coding competitions, research, and software projects.",
+
+  "Artificial-Intelligence": "AI specialist with expertise in machine learning, deep learning, and natural language processing. Experienced in model development, data preprocessing, and deployment using Python, TensorFlow, and PyTorch. Focused on building intelligent systems, predictive models, and AI-driven solutions for real-world applications.",
+
+  "Blockchain": "Blockchain professional with knowledge of decentralized systems, smart contracts, and cryptocurrency protocols. Experienced in blockchain development using Ethereum, Solidity, and Hyperledger. Skilled in security, ledger management, and distributed applications. Committed to creating secure, transparent, and efficient blockchain solutions.",
+
+  "Cloud": "Cloud engineer with expertise in cloud architecture, deployment, and management. Experienced in AWS, Azure, and Google Cloud Platform. Skilled in virtualization, containerization, and cloud security. Focused on scalable, efficient, and resilient cloud solutions for modern businesses.",
+
+  "Databases": "Database professional with expertise in database design, administration, and optimization. Skilled in SQL, NoSQL, data modeling, and performance tuning. Experienced in ensuring data integrity, security, and efficient storage solutions. Focused on supporting data-driven decision-making and scalable database systems.",
+
+  "DevOps": "DevOps engineer skilled in CI/CD pipelines, automation, and cloud infrastructure. Experienced in Docker, Kubernetes, Jenkins, and monitoring tools. Focused on improving software delivery speed, reliability, and system scalability through collaborative development and operational excellence.",
+
+  "Networking": "Networking professional with expertise in network design, administration, and troubleshooting. Experienced in LAN, WAN, and wireless networks, as well as network security and protocols. Skilled in Cisco, TCP/IP, and network monitoring tools. Focused on ensuring robust, secure, and efficient connectivity.",
+
+  "Programming": "Programming professional skilled in multiple languages including Python, C++, and Java. Experienced in algorithm development, debugging, and software implementation. Hands-on experience in projects, coding challenges, and collaborative development. Focused on efficient, maintainable, and innovative software solutions.",
+
+  "Security": "Security professional with expertise in cybersecurity, threat analysis, and risk mitigation. Experienced in firewalls, intrusion detection, and security compliance. Skilled in ethical hacking, cryptography, and network protection. Committed to safeguarding digital assets and enhancing organizational resilience.",
+
+  "Web": "Web developer with expertise in front-end and back-end development using HTML, CSS, JavaScript, and frameworks like React and Node.js. Experienced in responsive design, database integration, and user experience optimization. Focused on creating scalable, efficient, and interactive web applications.",
+
+  "Anesthesia": "Anesthesiologist with expertise in perioperative care, anesthesia administration, and patient monitoring. Experienced in general, regional, and local anesthesia for surgical procedures. Skilled in patient assessment, pain management, and emergency response. Focused on patient safety, comfort, and optimal clinical outcomes.",
+
+  "Audiology": "Audiologist skilled in hearing assessment, diagnostics, and rehabilitation. Experienced in audiometry, hearing aid fitting, and patient counseling. Committed to improving auditory health, communication, and quality of life for patients across all age groups.",
+
+  "Cardiology": "Cardiologist with expertise in cardiovascular diseases, diagnostics, and patient management. Experienced in ECG interpretation, echocardiography, and interventional procedures. Focused on preventive care, treatment optimization, and improving cardiac health outcomes.",
+
+  "Dentistry": "Dentist with expertise in oral health, restorative procedures, and preventive care. Experienced in dental examinations, cavity treatment, orthodontics, and patient education. Committed to enhancing oral hygiene, aesthetics, and overall dental health.",
+
+  "Dermatology": "Dermatologist with expertise in skin disorders, cosmetic dermatology, and patient care. Experienced in diagnosis, treatment planning, and dermatological procedures. Focused on improving skin health, patient education, and clinical outcomes.",
+
+  "Emergency": "Emergency physician with expertise in acute care, trauma management, and rapid decision-making. Experienced in triage, resuscitation, and critical interventions. Committed to patient safety, timely care, and effective emergency response.",
+
+  "Endocrinology": "Endocrinologist skilled in hormonal disorders, metabolic diseases, and patient management. Experienced in diabetes care, thyroid disorders, and clinical assessments. Focused on personalized treatment plans, preventive care, and improving metabolic health.",
+
+  "Epidemiology": "Epidemiologist with expertise in disease patterns, public health research, and statistical analysis. Experienced in outbreak investigation, surveillance, and health data interpretation. Focused on informing public health policies, preventive strategies, and evidence-based interventions.",
+
+  "Genetics": "Genetics professional with knowledge of molecular genetics, genomics, and hereditary disorders. Experienced in DNA analysis, gene sequencing, and genetic counseling. Focused on advancing research, personalized medicine, and improving healthcare outcomes through genetic insights.",
+"Gynecology": "Gynecologist with expertise in female reproductive health, prenatal care, and surgical interventions. Experienced in obstetrics, family planning, and patient counseling. Focused on improving maternal health, preventive care, and personalized treatment for women across all age groups.",
+  
+  "Hematology": "Hematologist skilled in blood disorders, diagnostics, and patient management. Experienced in laboratory analysis, bone marrow studies, and treatment of anemia, clotting disorders, and leukemia. Focused on accurate diagnosis, therapeutic interventions, and improving hematological health outcomes.",
+  
+  "Immunology": "Immunologist with expertise in immune system function, autoimmune diseases, and vaccine development. Experienced in laboratory research, clinical diagnostics, and patient care. Committed to advancing immunological knowledge and improving disease prevention and treatment strategies.",
+  
+  "Neurology": "Neurologist with expertise in brain, spinal cord, and nervous system disorders. Experienced in patient evaluation, diagnostic imaging, and treatment planning. Focused on improving neurological health through accurate diagnosis, evidence-based therapies, and patient-centered care.",
+  
+  "Nursing": "Nursing professional skilled in patient care, clinical procedures, and healthcare support. Experienced in hospitals, clinics, and community health settings. Focused on patient safety, empathy, and delivering high-quality care across diverse medical conditions.",
+  
+  "Nutrition": "Nutritionist with expertise in diet planning, nutritional assessment, and wellness programs. Experienced in clinical nutrition, public health, and personalized dietary interventions. Focused on promoting healthy lifestyles, disease prevention, and optimal nutritional outcomes.",
+  
+  "Oncology": "Oncologist with expertise in cancer diagnosis, treatment, and patient management. Experienced in chemotherapy, radiotherapy, and multidisciplinary care. Committed to improving patient outcomes, providing compassionate support, and advancing cancer research and therapies.",
+  
+  "Ophthalmology": "Ophthalmologist with expertise in eye disorders, vision correction, and surgical interventions. Experienced in diagnostics, cataract and refractive surgery, and patient counseling. Focused on improving ocular health, vision care, and patient quality of life.",
+  
+  "Orthopedics": "Orthopedic surgeon with expertise in musculoskeletal disorders, fracture management, and joint replacement. Experienced in surgical procedures, rehabilitation, and patient care. Focused on restoring mobility, reducing pain, and improving patient outcomes.",
+  
+  "Pathology": "Pathologist skilled in disease diagnosis through laboratory analysis of tissues, blood, and other samples. Experienced in histopathology, cytology, and clinical pathology. Focused on accurate diagnostic reporting, research, and supporting effective medical treatment.",
+  
+  "Pediatrics": "Pediatrician with expertise in child health, growth monitoring, and preventive care. Experienced in vaccinations, developmental assessments, and treatment of acute and chronic pediatric conditions. Committed to improving child health, wellness, and family-centered care.",
+  
+  "Pharmacy": "Pharmacist with expertise in medication management, drug interactions, and patient counseling. Experienced in clinical pharmacy, compounding, and pharmaceutical research. Focused on safe, effective, and ethical use of medications to improve patient outcomes.",
+  
+  "Physiotherapy": "Physiotherapist skilled in rehabilitation, exercise therapy, and pain management. Experienced in musculoskeletal, neurological, and post-surgical rehabilitation programs. Focused on restoring mobility, enhancing function, and improving quality of life for patients.",
+  
+  "Psychiatry": "Psychiatrist with expertise in mental health assessment, diagnosis, and treatment. Experienced in therapy, pharmacological interventions, and patient counseling. Focused on holistic care, improving mental well-being, and supporting patients with emotional and psychological challenges.",
+  
+  "Radiology": "Radiologist with expertise in diagnostic imaging, including X-ray, MRI, CT, and ultrasound. Experienced in image interpretation, patient evaluation, and interventional procedures. Committed to accurate diagnostics, patient safety, and supporting clinical decision-making.",
+  
+  "Surgery": "Surgeon with expertise in operative procedures, patient care, and perioperative management. Experienced in preoperative assessment, surgical planning, and post-surgical recovery. Focused on patient safety, precision, and achieving optimal clinical outcomes.",
+  
+  "Urology": "Urologist skilled in urinary tract and male reproductive system disorders. Experienced in diagnostics, surgical interventions, and patient counseling. Focused on improving urological health, restoring function, and enhancing patient quality of life.",
+  
+  "Astronomy": "Astronomer with expertise in celestial phenomena, astrophysics, and observational research. Experienced in telescope operations, data analysis, and modeling of planetary and stellar systems. Focused on advancing understanding of the universe through research and discovery.",
+  
+  "Biochemistry": "Biochemist skilled in molecular biology, enzyme kinetics, and metabolic pathways. Experienced in laboratory research, analytical techniques, and experimental design. Focused on understanding biological processes and applying biochemical knowledge to medicine, agriculture, and industry.",
+  
+  "Biophysics": "Biophysicist with expertise in applying physics principles to biological systems. Experienced in structural analysis, imaging techniques, and computational modeling. Focused on advancing knowledge of biological mechanisms and contributing to interdisciplinary research.",
+  
+  "Botany": "Botanist with expertise in plant biology, taxonomy, and ecology. Experienced in field research, plant physiology studies, and conservation projects. Focused on sustainable environmental practices, biodiversity preservation, and plant-based research applications.",
+  
+  "Chemistry": "Chemist skilled in organic, inorganic, and analytical chemistry. Experienced in laboratory research, synthesis, and chemical analysis. Focused on discovering new compounds, optimizing reactions, and applying chemistry to industry, medicine, and environmental solutions.",
+  
+  "Ecology": "Ecologist with expertise in ecosystems, biodiversity, and environmental conservation. Experienced in field studies, ecological modeling, and habitat restoration. Focused on sustainable management of natural resources and promoting ecological balance.",
+  
+  "Geology": "Geologist skilled in earth processes, mineralogy, and geological surveying. Experienced in fieldwork, mapping, and data interpretation. Focused on natural resource management, hazard assessment, and advancing understanding of earth systems.",
+  
+  "Mathematics": "Mathematician with expertise in pure and applied mathematics, statistical analysis, and problem-solving. Experienced in modeling, research, and algorithm development. Focused on providing logical, analytical, and innovative solutions across academic, scientific, and industrial applications.",
+  
+  "Math": "Mathematics professional skilled in quantitative analysis, problem-solving, and modeling. Experienced in teaching, research, and application of mathematical concepts to real-world problems. Focused on accuracy, logical reasoning, and innovative solutions.",
+  
+  "Maths": "Mathematics expert with expertise in algebra, calculus, and applied mathematics. Experienced in research, modeling, and quantitative analysis. Committed to analytical rigor, logical reasoning, and contributing to scientific and practical problem-solving.",
+"Meteorology": "Meteorologist with expertise in weather forecasting, climate modeling, and atmospheric analysis. Experienced in data interpretation, remote sensing, and using meteorological tools and software. Focused on accurate predictions, climate research, and contributing to environmental safety and disaster preparedness.",
+  
+  "Microbiology": "Microbiologist skilled in microbial analysis, lab research, and pathogen identification. Experienced in culturing techniques, molecular diagnostics, and studying bacteria, viruses, and fungi. Focused on understanding microorganisms, supporting public health, and developing innovative solutions in medicine, agriculture, and industry.",
+  
+  "Oceanography": "Oceanographer with expertise in marine ecosystems, ocean currents, and environmental monitoring. Experienced in field research, data collection, and analysis using modern oceanographic tools. Focused on advancing knowledge of marine systems, climate impacts, and sustainable management of oceans.",
+  
+  "Physics": "Physicist with expertise in classical and modern physics, experimental research, and theoretical modeling. Experienced in laboratory work, simulations, and data analysis. Focused on advancing scientific understanding, problem-solving, and applying physics to real-world challenges.",
+  
+  "Statistics": "Statistician skilled in data analysis, probability, and statistical modeling. Experienced in hypothesis testing, regression, and data visualization using R, Python, and SPSS. Focused on providing insights for research, business, and decision-making through accurate and interpretable analysis.",
+  
+  "Zoology": "Zoologist with expertise in animal biology, behavior, and conservation. Experienced in field research, species identification, and ecological studies. Focused on biodiversity preservation, wildlife management, and advancing scientific understanding of animal life.",
+  
+  "Accounting": "Accounting professional skilled in financial reporting, bookkeeping, and auditing. Experienced in tax compliance, budgeting, and financial analysis. Focused on accurate reporting, ethical practices, and optimizing financial performance.",
+  
+  "Banking": "Banking professional with expertise in financial services, client management, and regulatory compliance. Experienced in credit analysis, risk assessment, and transaction processing. Focused on improving customer experience, operational efficiency, and financial growth.",
+  
+  "Commerce": "Commerce professional skilled in trade, business operations, and market analysis. Experienced in financial management, supply chain, and strategic planning. Focused on enhancing business performance, profitability, and sustainable growth.",
+  
+  "Economics": "Economist with expertise in macroeconomics, microeconomics, and data-driven policy analysis. Experienced in research, statistical modeling, and economic forecasting. Focused on understanding markets, informing policy decisions, and driving sustainable economic development.",
+  
+  "Entrepreneurship": "Entrepreneur with expertise in business development, startup management, and innovation. Experienced in market analysis, fundraising, and product launch strategies. Focused on building scalable ventures, fostering creativity, and driving sustainable growth.",
+  
+  "Finance": "Finance professional skilled in investment analysis, risk management, and portfolio optimization. Experienced in financial modeling, market research, and strategic planning. Focused on maximizing returns, minimizing risks, and supporting informed decision-making.",
+  
+  "Human-Resources": "HR professional with expertise in recruitment, talent management, and organizational development. Experienced in employee relations, performance evaluation, and policy implementation. Focused on fostering a positive workplace, optimizing workforce potential, and supporting business growth.",
+  
+  "Logistics": "Logistics professional skilled in supply chain management, transportation, and inventory control. Experienced in optimizing distribution networks, warehousing, and operational efficiency. Focused on timely delivery, cost reduction, and improving overall supply chain performance.",
+  
+  "Management": "Management professional with expertise in leadership, strategic planning, and operational oversight. Experienced in team coordination, project management, and organizational development. Focused on driving efficiency, achieving business objectives, and fostering a collaborative work environment.",
+  
+  "Marketing": "Marketing professional skilled in brand strategy, digital marketing, and market research. Experienced in campaign planning, social media, and consumer behavior analysis. Focused on increasing engagement, driving sales, and enhancing brand value.",
+  
+  "Operations": "Operations professional with expertise in process optimization, project execution, and quality management. Experienced in workflow analysis, resource allocation, and performance improvement. Focused on enhancing efficiency, reducing costs, and supporting organizational success.",
+  
+  "Supply-Chain": "Supply chain professional skilled in procurement, logistics, and inventory management. Experienced in supplier relations, demand forecasting, and process optimization. Focused on ensuring seamless operations, reducing costs, and improving overall supply chain efficiency.",
+  
+  "Archaeology": "Archaeologist with expertise in excavation, artifact analysis, and historical research. Experienced in fieldwork, laboratory study, and documentation. Focused on preserving cultural heritage, understanding human history, and contributing to academic knowledge.",
+  
+  "Architecture": "Architect with expertise in building design, urban planning, and sustainable architecture. Experienced in CAD, project management, and construction oversight. Focused on innovative, functional, and aesthetically appealing structures.",
+  
+  "Design": "Designer skilled in visual, product, and user experience design. Experienced in Adobe Creative Suite, prototyping, and design thinking. Focused on creating innovative, functional, and user-centered solutions.",
+  
+  "English": "English professional with expertise in literature, communication, and writing. Experienced in academic analysis, content creation, and language instruction. Focused on improving literacy, critical thinking, and effective communication skills.",
+  
+  "Ethics": "Ethics professional with expertise in moral philosophy, compliance, and applied ethics. Experienced in research, policy development, and ethical decision-making. Focused on promoting integrity, fairness, and responsible practices.",
+  
+  "FineArts": "Fine arts professional skilled in painting, sculpture, and creative expression. Experienced in exhibitions, art education, and design projects. Focused on fostering creativity, cultural appreciation, and innovative artistic contributions.",
+  
+  "History": "Historian with expertise in cultural, social, and political history. Experienced in archival research, analysis, and academic writing. Focused on preserving historical knowledge, interpreting past events, and informing contemporary understanding.",
+  
+  "Journalism": "Journalist skilled in reporting, writing, and media communication. Experienced in news coverage, investigative reporting, and digital media. Focused on accurate, ethical, and engaging storytelling to inform the public.",
+  
+  "Linguistics": "Linguist with expertise in language structure, phonetics, and semantics. Experienced in research, analysis, and field studies. Focused on understanding language development, communication patterns, and cross-cultural linguistics.",
+  
+  "Literature": "Literature professional with expertise in literary analysis, criticism, and creative writing. Experienced in research, publishing, and education. Focused on exploring themes, fostering critical thinking, and promoting cultural literacy.",
+  
+  "Music": "Music professional skilled in performance, composition, and theory. Experienced in teaching, production, and live performance. Focused on artistic expression, audience engagement, and preserving musical heritage.",
+  
+  "Philosophy": "Philosopher with expertise in ethics, logic, and critical thinking. Experienced in research, writing, and academic discussion. Focused on exploring ideas, fostering analytical reasoning, and contributing to intellectual discourse.",
+  
+  "Politics": "Political analyst with expertise in governance, policy analysis, and international relations. Experienced in research, advocacy, and public communication. Focused on informed decision-making, democratic processes, and societal development.",
+  
+  "Psychology": "Psychologist skilled in behavioral analysis, counseling, and mental health assessment. Experienced in therapy, research, and applied psychology. Focused on improving well-being, understanding human behavior, and supporting personal growth.",
+  
+  "Sociology": "Sociologist with expertise in social structures, behavior, and cultural dynamics. Experienced in field research, data analysis, and policy evaluation. Focused on understanding societal trends, promoting equity, and informing social development.",
+  
+  "Theatre": "Theatre professional skilled in acting, directing, and stage production. Experienced in performance, script analysis, and creative collaboration. Focused on storytelling, artistic expression, and engaging audiences.",
+  
+  "Criminology": "Criminologist with expertise in crime analysis, criminal behavior, and justice systems. Experienced in research, investigation, and policy evaluation. Focused on crime prevention, legal reform, and public safety.",
+  
+  "Forensics": "Forensic scientist skilled in crime scene investigation, evidence analysis, and lab techniques. Experienced in DNA profiling, toxicology, and legal reporting. Focused on accuracy, scientific integrity, and supporting the justice system.",
+"Governance": "Governance professional with expertise in policy implementation, institutional management, and public accountability. Experienced in regulatory frameworks, stakeholder engagement, and decision-making processes. Focused on promoting transparency, efficiency, and ethical leadership in public and private organizations.",
+
+  "Jurisprudence": "Jurisprudence specialist with expertise in legal theory, constitutional law, and case analysis. Experienced in research, policy interpretation, and academic study. Focused on advancing legal understanding, supporting justice, and informing practical applications of law.",
+
+  "Policy": "Policy professional skilled in policy development, analysis, and implementation. Experienced in research, stakeholder consultation, and impact assessment. Focused on designing effective, evidence-based strategies for social, economic, and organizational improvement.",
+
+  "Public-Administration": "Public administration professional with expertise in governance, organizational management, and public service delivery. Experienced in budgeting, human resources, and program evaluation. Focused on improving efficiency, accountability, and citizen-centric governance.",
+
+  "Curriculum": "Curriculum specialist skilled in instructional design, educational standards, and program development. Experienced in lesson planning, assessment frameworks, and pedagogical research. Focused on creating engaging, effective, and inclusive learning experiences.",
+
+  "Pedagogy": "Pedagogy expert with knowledge of teaching strategies, learning theories, and classroom management. Experienced in curriculum implementation, assessment, and instructional innovation. Focused on enhancing student engagement, understanding, and academic achievement.",
+
+  "Special-Education": "Special education professional with expertise in individualized instruction, adaptive learning, and inclusive education. Experienced in supporting students with diverse needs, designing IEPs, and implementing assistive technologies. Focused on promoting accessibility, equity, and meaningful learning outcomes.",
+
+  "Agronomy": "Agronomist skilled in crop science, soil management, and sustainable farming practices. Experienced in field research, crop planning, and pest control. Focused on improving yield, environmental sustainability, and agricultural innovation.",
+
+  "Forestry": "Forestry professional with expertise in forest management, conservation, and ecosystem restoration. Experienced in sustainable logging, wildlife habitat assessment, and resource planning. Focused on balancing ecological sustainability with economic productivity.",
+
+  "Horticulture": "Horticulturist skilled in plant cultivation, landscape design, and greenhouse management. Experienced in pest management, soil health, and crop optimization. Focused on improving plant productivity, aesthetics, and sustainable horticultural practices.",
+
+  "Soil": "Soil scientist with expertise in soil fertility, testing, and conservation. Experienced in field analysis, nutrient management, and sustainable land use. Focused on optimizing crop growth, maintaining ecosystem health, and advancing agricultural productivity.",
+
+  "Veterinary": "Veterinary professional with expertise in animal health, diagnostics, and treatment. Experienced in surgery, preventive care, and herd management. Focused on improving animal welfare, disease prevention, and sustainable veterinary practices.",
+
+  "English": "English language professional with expertise in literature, communication, and writing. Experienced in teaching, content creation, and analysis. Focused on improving language proficiency, critical thinking, and effective communication skills.",
+
+  "Spanish": "Spanish language professional skilled in communication, translation, and teaching. Experienced in literature, cultural studies, and language instruction. Focused on promoting linguistic proficiency, cross-cultural understanding, and effective communication.",
+
+  "French": "French language professional with expertise in literature, translation, and communication. Experienced in teaching, content creation, and cultural studies. Focused on developing language proficiency and cross-cultural engagement.",
+
+  "German": "German language professional skilled in language instruction, translation, and literature. Experienced in communication, cultural studies, and academic research. Focused on improving fluency, cultural awareness, and effective communication.",
+
+  "Italian": "Italian language professional with expertise in communication, translation, and literary analysis. Experienced in teaching, cultural studies, and content creation. Focused on enhancing language skills, cultural understanding, and professional communication.",
+
+  "Portuguese": "Portuguese language professional skilled in translation, literature, and language teaching. Experienced in cultural studies, writing, and communication. Focused on developing fluency, cross-cultural understanding, and effective expression.",
+
+  "Russian": "Russian language professional with expertise in literature, translation, and communication. Experienced in teaching, cultural research, and content creation. Focused on language mastery, cultural literacy, and professional communication.",
+
+  "Chinese": "Chinese language professional skilled in Mandarin communication, translation, and cultural studies. Experienced in teaching, literature, and cross-cultural engagement. Focused on language proficiency, effective communication, and cultural understanding.",
+
+  "Japanese": "Japanese language professional with expertise in language instruction, translation, and literature. Experienced in cultural studies, communication, and teaching. Focused on improving linguistic skills, cultural awareness, and cross-cultural communication.",
+
+  "Korean": "Korean language professional skilled in teaching, translation, and cultural studies. Experienced in language instruction, content creation, and communication. Focused on enhancing fluency, cultural understanding, and effective communication.",
+
+  "Arabic": "Arabic language professional with expertise in linguistics, literature, and translation. Experienced in teaching, content creation, and cultural studies. Focused on language proficiency, cross-cultural understanding, and effective communication.",
+
+  "Hindi": "Hindi language professional skilled in literature, translation, and communication. Experienced in teaching, content development, and cultural studies. Focused on promoting language proficiency, cultural knowledge, and effective expression.",
+
+  "Urdu": "Urdu language professional with expertise in literature, poetry, and communication. Experienced in teaching, translation, and cultural studies. Focused on language proficiency, literary appreciation, and cross-cultural communication.",
+
+  "Albanian": "Albanian language professional skilled in teaching, translation, and cultural studies. Experienced in communication, literature, and linguistic research. Focused on enhancing fluency, cultural awareness, and effective communication.",
+
+  "Armenian": "Armenian language professional with expertise in linguistics, literature, and teaching. Experienced in translation, cultural studies, and communication. Focused on language mastery, cultural literacy, and effective expression.",
+
+  "Basque": "Basque language professional skilled in teaching, translation, and literature. Experienced in linguistic research, communication, and cultural studies. Focused on promoting language proficiency, cultural understanding, and effective communication.",
+
+  "Belarusian": "Belarusian language professional with expertise in linguistics, translation, and literature. Experienced in teaching, content creation, and cultural studies. Focused on language fluency, cross-cultural understanding, and effective communication.",
+
+  "Bosnian": "Bosnian language professional skilled in translation, teaching, and cultural studies. Experienced in literature, communication, and language instruction. Focused on improving proficiency, cultural literacy, and professional communication.",
+
+  "Bulgarian": "Bulgarian language professional with expertise in teaching, translation, and literature. Experienced in linguistic research, content development, and cultural studies. Focused on language proficiency, cultural awareness, and effective communication.",
+
+  "Catalan": "Catalan language professional skilled in teaching, translation, and cultural studies. Experienced in literature, communication, and linguistic research. Focused on promoting fluency, cultural understanding, and effective communication.",
+
+  "Croatian": "Croatian language professional with expertise in teaching, translation, and literature. Experienced in communication, cultural studies, and content creation. Focused on language proficiency, cultural literacy, and professional communication.",
+
+  "Czech": "Czech language professional skilled in teaching, translation, and literature. Experienced in cultural studies, content development, and communication. Focused on enhancing fluency, cultural knowledge, and effective communication.",
+
+  "Danish": "Danish language professional with expertise in linguistics, translation, and teaching. Experienced in literature, communication, and cultural studies. Focused on language proficiency, cultural awareness, and effective expression.",
+
+  "Dutch": "Dutch language professional skilled in teaching, translation, and communication. Experienced in literature, cultural studies, and content creation. Focused on language mastery, cross-cultural understanding, and effective communication.",
+
+  "Estonian": "Estonian language professional with expertise in teaching, translation, and linguistics. Experienced in literature, cultural studies, and communication. Focused on promoting language proficiency, cultural literacy, and effective communication.",
+
+  "Finnish": "Finnish language professional skilled in translation, teaching, and literature. Experienced in cultural studies, communication, and linguistic research. Focused on fluency, cultural awareness, and effective communication.",
+
+  "Galician": "Galician language professional with expertise in teaching, literature, and translation. Experienced in cultural studies, linguistic research, and communication. Focused on promoting fluency, cultural knowledge, and effective communication.",
+"Georgian": "Georgian language professional skilled in teaching, translation, and literature. Experienced in linguistics, cultural studies, and communication. Focused on language proficiency, cultural awareness, and effective cross-cultural communication.",
+
+  "Greek": "Greek language professional with expertise in teaching, translation, and classical literature. Experienced in communication, cultural studies, and content creation. Focused on enhancing fluency, cultural literacy, and effective communication.",
+
+  "Hungarian": "Hungarian language professional skilled in teaching, translation, and linguistic research. Experienced in literature, communication, and cultural studies. Focused on improving language proficiency, cultural understanding, and professional communication.",
+
+  "Icelandic": "Icelandic language professional with expertise in teaching, translation, and cultural studies. Experienced in literature, communication, and linguistic research. Focused on language mastery, cultural literacy, and effective communication.",
+
+  "Irish": "Irish language professional skilled in teaching, translation, and literature. Experienced in linguistics, cultural studies, and communication. Focused on promoting fluency, cultural knowledge, and effective cross-cultural communication.",
+
+  "Latvian": "Latvian language professional with expertise in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistic research. Focused on enhancing fluency, cultural awareness, and effective communication.",
+
+  "Lithuanian": "Lithuanian language professional skilled in teaching, translation, and linguistics. Experienced in literature, communication, and cultural studies. Focused on language proficiency, cross-cultural understanding, and effective communication.",
+
+  "Macedonian": "Macedonian language professional with expertise in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistic research. Focused on language mastery, cultural literacy, and professional communication.",
+
+  "Maltese": "Maltese language professional skilled in teaching, translation, and cultural studies. Experienced in literature, communication, and linguistics. Focused on promoting language proficiency, cultural knowledge, and effective communication.",
+
+  "Norwegian": "Norwegian language professional with expertise in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistic research. Focused on language mastery, cross-cultural understanding, and effective communication.",
+
+  "Polish": "Polish language professional skilled in teaching, translation, and literature. Experienced in linguistics, cultural studies, and communication. Focused on enhancing fluency, cultural literacy, and professional communication.",
+
+  "Romanian": "Romanian language professional with expertise in teaching, translation, and cultural studies. Experienced in literature, communication, and linguistic research. Focused on language proficiency, cultural understanding, and effective communication.",
+
+  "Serbian": "Serbian language professional skilled in teaching, translation, and literature. Experienced in communication, linguistics, and cultural studies. Focused on fluency, cultural literacy, and effective cross-cultural communication.",
+
+  "Slovak": "Slovak language professional with expertise in teaching, translation, and literature. Experienced in linguistics, cultural studies, and communication. Focused on language mastery, cultural awareness, and effective communication.",
+
+  "Slovenian": "Slovenian language professional skilled in teaching, translation, and cultural studies. Experienced in literature, communication, and linguistics. Focused on language proficiency, cross-cultural understanding, and professional communication.",
+
+  "Swedish": "Swedish language professional with expertise in teaching, translation, and literature. Experienced in communication, linguistics, and cultural studies. Focused on fluency, cultural literacy, and effective communication.",
+
+  "Ukrainian": "Ukrainian language professional skilled in teaching, translation, and literature. Experienced in linguistics, cultural studies, and communication. Focused on enhancing language proficiency, cultural awareness, and effective cross-cultural communication.",
+
+  "Welsh": "Welsh language professional with expertise in teaching, translation, and literature. Experienced in communication, linguistic research, and cultural studies. Focused on promoting fluency, cultural knowledge, and effective communication.",
+
+  "Assamese": "Assamese language professional skilled in teaching, translation, and literature. Experienced in linguistics, cultural studies, and communication. Focused on enhancing language proficiency, cultural literacy, and effective cross-cultural communication.",
+
+  "Bengali": "Bengali language professional with expertise in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistic research. Focused on language mastery, cultural awareness, and effective communication.",
+
+  "Bhojpuri": "Bhojpuri language professional skilled in teaching, translation, and cultural studies. Experienced in literature, communication, and linguistics. Focused on promoting language proficiency, cultural literacy, and effective communication.",
+
+  "Dogri": "Dogri language professional with expertise in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistic research. Focused on fluency, cultural awareness, and professional communication.",
+
+  "Gujarati": "Gujarati language professional skilled in teaching, translation, and literature. Experienced in linguistics, cultural studies, and communication. Focused on enhancing language proficiency, cross-cultural understanding, and effective communication.",
+
+  "Kannada": "Kannada language professional with expertise in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistic research. Focused on language mastery, cultural literacy, and professional communication.",
+
+  "Kashmiri": "Kashmiri language professional skilled in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistics. Focused on fluency, cultural awareness, and effective cross-cultural communication.",
+
+  "Konkani": "Konkani language professional with expertise in teaching, translation, and literature. Experienced in communication, linguistics, and cultural studies. Focused on promoting language proficiency, cultural literacy, and effective communication.",
+
+  "Maithili": "Maithili language professional skilled in teaching, translation, and literature. Experienced in linguistics, cultural studies, and communication. Focused on enhancing language proficiency, cultural awareness, and effective cross-cultural communication.",
+
+  "Malayalam": "Malayalam language professional with expertise in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistic research. Focused on fluency, cultural literacy, and professional communication.",
+
+  "Manipuri": "Manipuri language professional skilled in teaching, translation, and literature. Experienced in communication, linguistics, and cultural studies. Focused on enhancing language proficiency, cultural awareness, and effective communication.",
+
+  "Marathi": "Marathi language professional with expertise in teaching, translation, and literature. Experienced in linguistics, cultural studies, and communication. Focused on language mastery, cross-cultural understanding, and effective communication.",
+
+  "Nepali": "Nepali language professional skilled in teaching, translation, and literature. Experienced in communication, linguistic research, and cultural studies. Focused on enhancing fluency, cultural literacy, and effective communication.",
+
+  "Odia": "Odia language professional with expertise in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistics. Focused on language proficiency, cultural awareness, and effective cross-cultural communication.",
+
+  "Punjabi": "Punjabi language professional skilled in teaching, translation, and literature. Experienced in communication, linguistics, and cultural studies. Focused on enhancing fluency, cultural literacy, and professional communication.",
+
+  "Sanskrit": "Sanskrit language professional with expertise in classical literature, translation, and linguistics. Experienced in teaching, research, and cultural studies. Focused on preserving linguistic heritage, promoting cultural knowledge, and effective communication.",
+
+  "Santali": "Santali language professional skilled in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistic research. Focused on language proficiency, cultural awareness, and effective cross-cultural communication.",
+
+  "Sindhi": "Sindhi language professional with expertise in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistics. Focused on enhancing fluency, cultural literacy, and professional communication.",
+
+  "Tamil": "Tamil language professional skilled in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistic research. Focused on language mastery, cross-cultural understanding, and effective communication.",
+
+  "Telugu": "Telugu language professional with expertise in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistics. Focused on enhancing fluency, cultural literacy, and effective cross-cultural communication.",
+"Burmese": "Burmese language professional skilled in teaching, translation, and literature. Experienced in linguistics, communication, and cultural studies. Focused on enhancing language proficiency, cross-cultural understanding, and effective communication.",
+
+  "Cantonese": "Cantonese language professional with expertise in teaching, translation, and communication. Experienced in linguistics, cultural studies, and literature. Focused on promoting fluency, cultural literacy, and effective cross-cultural communication.",
+
+  "Filipino": "Filipino language professional skilled in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistics. Focused on improving language proficiency, cultural understanding, and professional communication.",
+
+  "Hakka": "Hakka language professional with expertise in teaching, translation, and literature. Experienced in linguistics, cultural studies, and communication. Focused on fluency, cultural awareness, and effective cross-cultural communication.",
+
+  "Indonesian": "Indonesian language professional skilled in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistic research. Focused on enhancing language proficiency, cross-cultural understanding, and effective communication.",
+
+  "Javanese": "Javanese language professional with expertise in teaching, translation, and literature. Experienced in communication, linguistics, and cultural studies. Focused on fluency, cultural literacy, and effective communication.",
+
+  "Khmer": "Khmer language professional skilled in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistic research. Focused on language mastery, cross-cultural understanding, and effective communication.",
+
+  "Lao": "Lao language professional with expertise in teaching, translation, and literature. Experienced in communication, linguistics, and cultural studies. Focused on language proficiency, cultural literacy, and effective cross-cultural communication.",
+
+  "Malay": "Malay language professional skilled in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistics. Focused on fluency, cultural awareness, and effective professional communication.",
+
+  "Mandarin": "Mandarin language professional with expertise in teaching, translation, and communication. Experienced in linguistics, literature, and cultural studies. Focused on language proficiency, cross-cultural understanding, and effective communication.",
+
+  "Mongolian": "Mongolian language professional skilled in teaching, translation, and literature. Experienced in communication, linguistics, and cultural studies. Focused on enhancing fluency, cultural literacy, and effective cross-cultural communication.",
+
+  "Sinhala": "Sinhala language professional with expertise in teaching, translation, and literature. Experienced in communication, linguistic research, and cultural studies. Focused on language mastery, cross-cultural understanding, and effective communication.",
+
+  "Sundanese": "Sundanese language professional skilled in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistics. Focused on fluency, cultural literacy, and effective professional communication.",
+
+  "Tagalog": "Tagalog language professional with expertise in teaching, translation, and literature. Experienced in communication, linguistics, and cultural studies. Focused on language proficiency, cross-cultural understanding, and effective communication.",
+
+  "Thai": "Thai language professional skilled in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistic research. Focused on enhancing fluency, cultural literacy, and effective cross-cultural communication.",
+
+  "Tibetan": "Tibetan language professional with expertise in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistics. Focused on language mastery, cultural literacy, and effective communication.",
+
+  "Vietnamese": "Vietnamese language professional skilled in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistics. Focused on fluency, cross-cultural understanding, and effective professional communication.",
+
+  "Arabic": "Arabic language professional with expertise in teaching, translation, and literature. Experienced in linguistics, cultural studies, and communication. Focused on language proficiency, cross-cultural understanding, and effective communication.",
+
+  "Hebrew": "Hebrew language professional skilled in teaching, translation, and literature. Experienced in communication, linguistics, and cultural studies. Focused on enhancing fluency, cultural literacy, and effective cross-cultural communication.",
+
+  "Kurdish": "Kurdish language professional with expertise in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistics. Focused on language proficiency, cross-cultural understanding, and professional communication.",
+
+  "Pashto": "Pashto language professional skilled in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistic research. Focused on fluency, cultural literacy, and effective professional communication.",
+
+  "Persian": "Persian language professional with expertise in teaching, translation, and literature. Experienced in communication, linguistics, and cultural studies. Focused on language mastery, cross-cultural understanding, and effective communication.",
+
+  "Turkish": "Turkish language professional skilled in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistics. Focused on fluency, cultural literacy, and effective professional communication.",
+
+  "Afrikaans": "Afrikaans language professional with expertise in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistic research. Focused on language proficiency, cross-cultural understanding, and effective communication.",
+
+  "Amharic": "Amharic language professional skilled in teaching, translation, and literature. Experienced in communication, linguistics, and cultural studies. Focused on enhancing fluency, cultural literacy, and effective cross-cultural communication.",
+
+  "Berber": "Berber language professional with expertise in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistics. Focused on language mastery, cross-cultural understanding, and effective communication.",
+
+  "Chichewa": "Chichewa language professional skilled in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistics. Focused on fluency, cultural literacy, and effective professional communication.",
+
+  "Ewe": "Ewe language professional with expertise in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistics. Focused on language proficiency, cross-cultural understanding, and effective communication.",
+
+  "Fula": "Fula language professional skilled in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistics. Focused on enhancing fluency, cultural literacy, and effective cross-cultural communication.",
+
+  "Hausa": "Hausa language professional with expertise in teaching, translation, and literature. Experienced in communication, linguistic research, and cultural studies. Focused on language mastery, cross-cultural understanding, and effective communication.",
+
+  "Igbo": "Igbo language professional skilled in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistics. Focused on fluency, cultural literacy, and effective professional communication.",
+
+  "Kinyarwanda": "Kinyarwanda language professional with expertise in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistic research. Focused on language proficiency, cross-cultural understanding, and effective communication.",
+
+  "Lingala": "Lingala language professional skilled in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistics. Focused on enhancing fluency, cultural literacy, and effective cross-cultural communication.",
+
+  "Luganda": "Luganda language professional with expertise in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistic research. Focused on language mastery, cross-cultural understanding, and effective communication.",
+
+  "Oromo": "Oromo language professional skilled in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistics. Focused on fluency, cultural literacy, and effective professional communication.",
+
+  "Shona": "Shona language professional with expertise in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistic research. Focused on language proficiency, cross-cultural understanding, and effective communication.",
+
+  "Somali": "Somali language professional skilled in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistics. Focused on enhancing fluency, cultural literacy, and effective cross-cultural communication.",
+"Swahili": "Swahili language professional skilled in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistics. Focused on enhancing language proficiency, cross-cultural understanding, and effective professional communication.",
+
+  "Tigrinya": "Tigrinya language professional with expertise in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistic research. Focused on language mastery, fluency, and effective cross-cultural communication.",
+
+  "Tswana": "Tswana language professional skilled in teaching, translation, and literature. Experienced in communication, linguistics, and cultural studies. Focused on promoting fluency, cultural literacy, and effective professional communication.",
+
+  "Wolof": "Wolof language professional with expertise in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistic research. Focused on language proficiency, cross-cultural understanding, and effective communication.",
+
+  "Xhosa": "Xhosa language professional skilled in teaching, translation, and literature. Experienced in communication, linguistics, and cultural studies. Focused on enhancing fluency, cultural literacy, and effective cross-cultural communication.",
+
+  "Yoruba": "Yoruba language professional with expertise in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistic research. Focused on language mastery, cross-cultural understanding, and effective professional communication.",
+
+  "Zulu": "Zulu language professional skilled in teaching, translation, and literature. Experienced in communication, cultural studies, and linguistics. Focused on fluency, cultural literacy, and effective cross-cultural communication.",
+
+  "Akkadian": "Akkadian language professional with expertise in teaching, translation, and historical linguistics. Experienced in cuneiform studies, literature, and cultural research. Focused on preserving ancient language knowledge and advancing scholarly understanding.",
+
+  "Avestan": "Avestan language professional skilled in teaching, translation, and historical research. Experienced in ancient texts, religious studies, and linguistic analysis. Focused on preserving cultural heritage, language proficiency, and academic scholarship.",
+
+  "Coptic": "Coptic language professional with expertise in teaching, translation, and historical linguistics. Experienced in religious texts, cultural studies, and linguistic research. Focused on preserving ancient language knowledge and promoting scholarly understanding.",
+
+  "Latin": "Latin language professional skilled in teaching, translation, and classical literature. Experienced in linguistics, historical research, and academic instruction. Focused on preserving classical knowledge, enhancing language proficiency, and advancing scholarship.",
+
+  "Pali": "Pali language professional with expertise in teaching, translation, and ancient texts. Experienced in religious studies, linguistics, and cultural research. Focused on preserving historical knowledge, language proficiency, and academic scholarship.",
+
+  "Prakrit": "Prakrit language professional skilled in teaching, translation, and historical literature. Experienced in linguistic research, ancient texts, and cultural studies. Focused on language preservation, academic understanding, and scholarly communication.",
+
+  "Sumerian": "Sumerian language professional with expertise in teaching, translation, and cuneiform studies. Experienced in ancient literature, archaeology, and linguistic research. Focused on preserving historical language knowledge and advancing academic scholarship.",
+
+  "Esperanto": "Esperanto language professional skilled in teaching, translation, and international communication. Experienced in linguistics, cultural exchange, and literature. Focused on promoting language proficiency, global understanding, and effective cross-cultural communication.",
+
+  "Interlingua": "Interlingua language professional with expertise in teaching, translation, and international communication. Experienced in linguistics, literature, and cross-cultural studies. Focused on language mastery, global literacy, and fostering effective communication across cultures."
+}
